@@ -4,10 +4,14 @@
 
 3.Download the ZIP file from Git , and perform npm build and run 
 
-4.App works Fine! 
+4.Open youtube.js file and provide your youtube key against  'Key' variable 
+
+5.perform npm start
+
+6.App works Fine! 
 
 
-5.made for Educational Purpose 
+7.made for Educational Purpose 
 
 ![Screenshot (30)](https://user-images.githubusercontent.com/95466685/169945314-bf1a684f-8097-4529-bc60-801ebfea13dc.png)
 ![Screenshot (31)](https://user-images.githubusercontent.com/95466685/169945322-f58de352-ffeb-4ee7-a644-f904691d0607.png)
